@@ -1,0 +1,31 @@
+
+body{
+    background: url("https://images.pexels.com/photos/373893/pexels-photo-373893.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+}
+header{
+    text-align: center;
+    color: rgba(10, 203, 242, 0.942);
+    font-weight: bold;
+}
+.container{
+    border: 1px solid blue;
+    border-radius: 20px;
+    padding: 10%;
+    margin: 5%;
+    background: oldlace;
+    text-align: center;
+}
+.container2{
+    background: pink;
+}
+.label{
+    font-weight: bolder;
+}
+.btn{
+    text-align: center;
+    background: white;
+}
+.btn:hover{
+    background: rgba(0, 0, 255, 0.312);
+    font-weight: bold;
+}
